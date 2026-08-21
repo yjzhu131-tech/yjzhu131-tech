@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mary Zhu
 
-<!--
-**yjzhu131-tech/yjzhu131-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Columbia University graduate with a B.S. and M.S. in Biomedical Engineering. I am currently a **Computer Science and Data Analytics Intern** at EMR Technical Solutions (EMRTS), where I am building technical skills through Python projects, data-focused problem solving, and software development practice.
 
-Here are some ideas to get you started:
+I am especially interested in the healthcare and biotech fields, and I hope to continue developing my career at the intersection of biomedical engineering, data analytics, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+Here are some of the projects I worked on during my time at EMRTS.
+
+| Project | Focus | What It Shows | Status | Link |
+| --- | --- | --- | --- | --- |
+| State Capitals Project | Python basics, dictionaries, quiz logic | Uses state/capital data to practice input handling, lookup logic, and simple program flow. | In progress | [Repository](https://github.com/yjzhu131-tech/State-Capitals-Project) |
+| FizzBuzz Project | Python fundamentals | Implements the classic FizzBuzz problem with clean conditional logic. | Completed | [Repository](https://github.com/yjzhu131-tech/FizzBuzz-Project) |
+| Gallon Bucket Problem | Problem solving, search logic | Solves a water bucket puzzle by modeling steps and possible states. | Completed | [Repository](https://github.com/yjzhu131-tech/Gallon-Bucket-Problem) |
+| Tabind Project | Python project practice | Builds on previous project experience with a larger implementation task. | Completed | Coming soon |
+| Provider Lookup Project | Database design, ER diagram | Starts a provider lookup system and organizes the data model. | In progress | Coming soon |
+
+## Contact
+
+- How to reach me: yjzhu131@gmail.com
+- GitHub: [yjzhu131-tech](https://github.com/yjzhu131-tech)
