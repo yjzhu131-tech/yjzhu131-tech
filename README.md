@@ -8,13 +8,14 @@ I am especially interested in the healthcare and biotech fields, and I hope to c
 
 Here are some of the projects I worked on during my time at EMRTS.
 
-| Project | Focus | What It Shows | Link |
-| --- | --- | --- | --- |
-| State Capitals Project | Python basics, dictionaries, quiz logic | Uses state/capital data to practice input handling, lookup logic, and simple program flow. | [Repository](https://github.com/yjzhu131-tech/State-Capitals-Project) |
-| FizzBuzz Project | Python fundamentals | Implements the classic FizzBuzz problem with clean conditional logic. | [Repository](https://github.com/yjzhu131-tech/FizzBuzz-Project) |
-| Gallon Bucket Problem | Problem solving, search logic | Solves a water bucket puzzle by modeling steps and possible states. | [Repository](https://github.com/yjzhu131-tech/Gallon-Bucket-Problem) |
-| Tabind Project | Python project practice | Builds on previous project experience with a larger implementation task. |  [Repository](https://github.com/yjzhu131-tech/TABIND-Scrabble-Project)|
-| Provider Lookup Project | Database design, ER diagram | Starts a provider lookup system and organizes the data model. | [Repository](https://github.com/yjzhu131-tech/Provider-Lookup-Project) |
+| Project | Focus | What It Shows |
+| --- | --- | --- |
+| [State Capitals Project](https://github.com/yjzhu131-tech/State-Capitals-Project) | Python, JSON data creation, geocoding API | Creates state capital address data, then enriches it with latitude and longitude using OpenStreetMap Nominatim. |
+| [FizzBuzz Project](https://github.com/yjzhu131-tech/FizzBuzz-Project) | Python fundamentals, loops, conditional logic | Implements the classic FizzBuzz problem for numbers 1 through 100 with clear rule-based output. |
+| [Gallon Bucket Problem](https://github.com/yjzhu131-tech/Gallon-Bucket-Problem) | Breadth-first search, state modeling, problem solving | Models bucket amounts as states and uses BFS to find a short solution for measuring exactly 4 gallons. |
+| [Tabind Project](https://github.com/yjzhu131-tech/TABIND-Scrabble-Project) | File processing, word filtering, algorithmic logic | Reads a Scrabble dictionary and finds all valid words that can be made from the letters in "tabind" only once. |
+| [Provider Lookup Project](https://github.com/yjzhu131-tech/Provider-Lookup-Project) | PostgreSQL, Django, healthcare provider search | Builds a provider lookup tool using NPPES and taxonomy data, with both a database-backed web app and an API search version. |
+| [Provider Exclusion List Project](https://github.com/yjzhu131-tech/Provider-Exclusion-List-Poject.git) | ETL, PostgreSQL, Django, exclusion data management | Cleans HHS OIG and Georgia exclusion data, loads it into relational tables, and provides a searchable Django lookup website. |
 
 ## Contact
 
