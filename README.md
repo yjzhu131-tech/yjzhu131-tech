@@ -6,7 +6,7 @@ I am especially interested in the healthcare and biotech fields, and I hope to c
 
 ## Projects
 
-Here are some of the projects I worked on during my time at EMRTS.
+Here are some of the projects I have worked on.
 
 | Project | Focus | What It Shows |
 | --- | --- | --- |
@@ -16,6 +16,7 @@ Here are some of the projects I worked on during my time at EMRTS.
 | [Tabind Project](https://github.com/yjzhu131-tech/TABIND-Scrabble-Project) | File processing, word filtering, algorithmic logic | Reads a Scrabble dictionary and finds all valid words that can be made from the letters in "tabind" only once. |
 | [Provider Lookup Project](https://github.com/yjzhu131-tech/Provider-Lookup-Project) | PostgreSQL, Django, healthcare provider search | Builds a provider lookup tool using NPPES and taxonomy data, with both a database-backed web app and an API search version. |
 | [Provider Exclusion List Project](https://github.com/yjzhu131-tech/Provider-Exclusion-List-Poject.git) | ETL, PostgreSQL, Django, exclusion data management | Cleans HHS OIG and Georgia exclusion data, loads it into relational tables, and provides a searchable Django lookup website. |
+| [Value-Based Care Project](https://github.com/yjzhu131-tech/Value-Based-Care) | Healthcare analytics, value-based care, data analysis | Explores value-based care concepts through healthcare data analysis, focusing on quality, cost, and care outcomes. |
 
 ## Contact
 
