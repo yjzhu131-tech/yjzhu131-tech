@@ -17,6 +17,7 @@ Here are some of the projects I have worked on.
 | [Provider Lookup Project](https://github.com/yjzhu131-tech/Provider-Lookup-Project) | PostgreSQL, Django, healthcare provider search | Builds a provider lookup tool using NPPES and taxonomy data, with both a database-backed web app and an API search version. |
 | [Provider Exclusion List Project](https://github.com/yjzhu131-tech/Provider-Exclusion-List-Poject.git) | ETL, PostgreSQL, Django, exclusion data management | Cleans HHS OIG and Georgia exclusion data, loads it into relational tables, and provides a searchable Django lookup website. |
 | [Value-Based Care Project](https://github.com/yjzhu131-tech/Value-Based-Care) | Healthcare analytics, value-based care, data analysis | Explores value-based care concepts through healthcare data analysis, focusing on quality, cost, and care outcomes. |
+| [Medicaid Enrollment and Expenditure Forecasting Project](https://github.com/yjzhu131-tech/Medicaid-Enrollment-and-Expenditure-Forecasting-Project) | Python, data cleaning, time-series forecasting, healthcare analytics | Forecasts Medicaid and CHIP enrollment and expenditures nationally and for New York and Pennsylvania using trend and policy changepoint models, with forecast charts, CSV tables, and per-enrollee spending analysis. |
 
 ## Contact
 
