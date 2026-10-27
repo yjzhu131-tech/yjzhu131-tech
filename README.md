@@ -23,4 +23,3 @@ Here are some of the projects I have worked on.
 ## Contact
 
 - How to reach me: yjzhu131@gmail.com
-- GitHub: [yjzhu131-tech](https://github.com/yjzhu131-tech)
